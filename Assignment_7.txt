@@ -1,0 +1,20 @@
+Coralic Belmin, 3AHIF
+20.12.2018
+
+1.) 
+
+
+2.) sum = 2 + (2 + 5) + (7 + 8) + (15 + 12) + (27 + 16) + (43 + 21) + (64 + 34) + (98 + 55)
+    sum = 409
+
+    ave = 409 / 8
+    ave = 51.125
+
+3.) In round robin scheduling, all processes in the ready queue are given equal time units. CPU time
+    is divided equally among the processes. So if a process was listed twice, it would be granted twice 
+    the CPU time of the other processes.
+
+
+
+
+
